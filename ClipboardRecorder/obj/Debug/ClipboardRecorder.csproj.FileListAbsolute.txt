@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\ClipboardRecorder\ClipboardRecorder\bin\Debug\ClipboardRecorder.exe.config
+C:\Users\Asus\source\repos\ClipboardRecorder\ClipboardRecorder\bin\Debug\ClipboardRecorder.exe
+C:\Users\Asus\source\repos\ClipboardRecorder\ClipboardRecorder\bin\Debug\ClipboardRecorder.pdb
+C:\Users\Asus\source\repos\ClipboardRecorder\ClipboardRecorder\obj\Debug\ClipboardRecorder.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ClipboardRecorder\ClipboardRecorder\obj\Debug\ClipboardRecorder.Properties.Resources.resources
+C:\Users\Asus\source\repos\ClipboardRecorder\ClipboardRecorder\obj\Debug\ClipboardRecorder.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\ClipboardRecorder\ClipboardRecorder\obj\Debug\ClipboardRecorder.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ClipboardRecorder\ClipboardRecorder\obj\Debug\ClipboardRecorder.exe
+C:\Users\Asus\source\repos\ClipboardRecorder\ClipboardRecorder\obj\Debug\ClipboardRecorder.pdb
